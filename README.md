@@ -1,5 +1,7 @@
 # pcre2demo
 
+[![CPP CI](https://github.com/Akagi201/pcre2demo/actions/workflows/ci.yml/badge.svg)](https://github.com/Akagi201/pcre2demo/actions/workflows/ci.yml)
+
 Standalone pcre2demo CMake project for easy debug
 
 ## Build
